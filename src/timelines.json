@@ -1,0 +1,499 @@
+[
+  {
+    "country": "default",
+    "title": "default",
+    "startYear": 0,
+    "endYear": 0,
+    "link": null
+  },
+  {
+    "country": "Korea",
+    "title": "Ancient period: Gojoseon",
+    "startYear": -2333,
+    "endYear": -108,
+    "link": "https://en.wikipedia.org/wiki/Gojoseon"
+  },
+  {
+    "country": "Korea",
+    "title": "Proto–Three Kingdoms period: Buyeo",
+    "startYear": -100,
+    "endYear": 494,
+    "link": null
+  },
+  {
+    "country": "Korea",
+    "title": "Proto–Three Kingdoms period: Samhan",
+    "startYear": -108,
+    "endYear": 300,
+    "link": null
+  },
+  {
+    "country": "Korea",
+    "title": "Proto–Three Kingdoms period: Dongye",
+    "startYear": -200,
+    "endYear": 400,
+    "link": null
+  },
+  {
+    "country": "Korea",
+    "title": "Proto–Three Kingdoms period: Four Commanderies of Han",
+    "startYear": -108,
+    "endYear": 313,
+    "link": null
+  },
+  {
+    "country": "Korea",
+    "title": "Three Kingdoms period: Goguryeo",
+    "startYear": -37,
+    "endYear": 668,
+    "link": null
+  },
+  {
+    "country": "Korea",
+    "title": "Three Kingdoms period: Baekje",
+    "startYear": -18,
+    "endYear": 660,
+    "link": null
+  },
+  {
+    "country": "Korea",
+    "title": "Three Kingdoms period: Gaya confederacy",
+    "startYear": -57,
+    "endYear": 935,
+    "link": null
+  },
+  {
+    "country": "Korea",
+    "title": "Northern and Southern States period: Balhae",
+    "startYear": 668,
+    "endYear": 935,
+    "link": null
+  },
+  {
+    "country": "Korea",
+    "title": "Northern and Southern States period: United Silla",
+    "startYear": 698,
+    "endYear": 926,
+    "link": null
+  },
+  {
+    "country": "Korea",
+    "title": "Later Three Kingdoms period: Later Baekje",
+    "startYear": 892,
+    "endYear": 936,
+    "link": null
+  },
+  {
+    "country": "Korea",
+    "title": "Later Three Kingdoms period: Taebong (Later Goguryeo)",
+    "startYear": 901,
+    "endYear": 918,
+    "link": null
+  },
+  {
+    "country": "Korea",
+    "title": "Later Three Kingdoms period: Unified Silla (Later Silla)",
+    "startYear": 668,
+    "endYear": 935,
+    "link": null
+  },
+  {
+    "country": "Korea",
+    "title": "Dynastic period: Goryeo",
+    "startYear": 918,
+    "endYear": 1392,
+    "link": null
+  },
+  {
+    "country": "Korea",
+    "title": "Dynastic period: Joseon",
+    "startYear": 1392,
+    "endYear": 1897,
+    "link": null
+  },
+  {
+    "country": "Korea",
+    "title": "Dynastic period: Korean Empire",
+    "startYear": 1897,
+    "endYear": 1910,
+    "link": null
+  },
+  {
+    "country": "Korea",
+    "title": "Colonial period: Japanese Rule",
+    "startYear": 1910,
+    "endYear": 1945,
+    "link": null
+  },
+  {
+    "country": "Korea",
+    "title": "Colonial period: Provisional Government",
+    "startYear": 1919,
+    "endYear": 1948,
+    "link": null
+  },
+  {
+    "country": "Korea",
+    "title": "Modern period: Military governments",
+    "startYear": 1945,
+    "endYear": 1948,
+    "link": null
+  },
+  {
+    "country": "Korea",
+    "title": "Modern period: North-South division",
+    "startYear": 1948,
+    "endYear": 2021,
+    "link": null
+  },
+  {
+    "country": "Japan",
+    "title": "Ancient Japan: Yayoi period",
+    "startYear": -1000,
+    "endYear": 250,
+    "link": null
+  },
+  {
+    "country": "Japan",
+    "title": "Ancient Japan: Kofun period",
+    "startYear": 250,
+    "endYear": 538,
+    "link": null
+  },
+  {
+    "country": "Japan",
+    "title": "Classical Japan: Asuka period",
+    "startYear": 538,
+    "endYear": 710,
+    "link": null
+  },
+  {
+    "country": "Japan",
+    "title": "Classical Japan: Nara period",
+    "startYear": 710,
+    "endYear": 794,
+    "link": null
+  },
+  {
+    "country": "Japan",
+    "title": "Classical Japan: Heian period",
+    "startYear": 794,
+    "endYear": 1185,
+    "link": null
+  },
+  {
+    "country": "Japan",
+    "title": "Feudal Japan: Kamakura period",
+    "startYear": 1185,
+    "endYear": 1333,
+    "link": null
+  },
+  {
+    "country": "Japan",
+    "title": "Feudal Japan: Muromachi period",
+    "startYear": 1333,
+    "endYear": 1568,
+    "link": null
+  },
+  {
+    "country": "Japan",
+    "title": "Feudal Japan: Azuchi–Momoyama period",
+    "startYear": 1568,
+    "endYear": 1600,
+    "link": null
+  },
+  {
+    "country": "Japan",
+    "title": "Early modern Japan: Edo period",
+    "startYear": 1600,
+    "endYear": 1868,
+    "link": null
+  },
+  {
+    "country": "Japan",
+    "title": "Modern Japan: Meiji period",
+    "startYear": 1868,
+    "endYear": 1912,
+    "link": null
+  },
+  {
+    "country": "Japan",
+    "title": "Modern Japan: Taishō period",
+    "startYear": 1912,
+    "endYear": 1926,
+    "link": null
+  },
+  {
+    "country": "Japan",
+    "title": "Modern Japan: Shōwa period",
+    "startYear": 1926,
+    "endYear": 1989,
+    "link": null
+  },
+  {
+    "country": "Japan",
+    "title": "Modern Japan: Heisei period",
+    "startYear": 1989,
+    "endYear": 2019,
+    "link": null
+  },
+  {
+    "country": "Japan",
+    "title": "Modern Japan: Reiwa period",
+    "startYear": 2019,
+    "endYear": 2021,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Ancient China: Xia",
+    "startYear": -2070,
+    "endYear": -1600,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Ancient China: Shang",
+    "startYear": -1600,
+    "endYear": -1046,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Ancient China: Zhou",
+    "startYear": -1046,
+    "endYear": -256,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Ancient China: Western Zhou",
+    "startYear": -1045,
+    "endYear": -771,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Ancient China: Eastern Zhou",
+    "startYear": -770,
+    "endYear": -256,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Ancient China: Spring and Autumn period",
+    "startYear": -771,
+    "endYear": -476,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Ancient China: Warring States period",
+    "startYear": -475,
+    "endYear": -221,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Imperial China: Qin",
+    "startYear": -221,
+    "endYear": -207,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Imperial China: Han",
+    "startYear": -202,
+    "endYear": 220,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Imperial China: Three Kingdoms",
+    "startYear": 220,
+    "endYear": 280,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Imperial China: Jin",
+    "startYear": 266,
+    "endYear": 420,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Imperial China: Sixteen Kingdoms",
+    "startYear": 304,
+    "endYear": 439,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Imperial China: Northern Wei",
+    "startYear": 386,
+    "endYear": 535,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Imperial China: Western Wei",
+    "startYear": 535,
+    "endYear": 557,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Imperial China: Eastern Wei",
+    "startYear": 534,
+    "endYear": 550,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Imperial China: Northern Zhou",
+    "startYear": 557,
+    "endYear": 581,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Imperial China: Northern Qi",
+    "startYear": 550,
+    "endYear": 577,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Imperial China: Liu Song",
+    "startYear": 420,
+    "endYear": 479,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Imperial China: Southern Qi",
+    "startYear": 479,
+    "endYear": 502,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Imperial China: Liang",
+    "startYear": 502,
+    "endYear": 557,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Imperial China: Chen",
+    "startYear": 557,
+    "endYear": 589,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Imperial China: Western Liang",
+    "startYear": 555,
+    "endYear": 587,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Imperial China: Sui",
+    "startYear": 581,
+    "endYear": 618,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Imperial China: Tang",
+    "startYear": 618,
+    "endYear": 907,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Imperial China: Five Dynasties and Ten Kingdoms",
+    "startYear": 907,
+    "endYear": 979,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Imperial China: Liao",
+    "startYear": 916,
+    "endYear": 1125,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Imperial China: Song",
+    "startYear": 960,
+    "endYear": 1279,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Imperial China: Western Xia",
+    "startYear": 1038,
+    "endYear": 1227,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Imperial China: Jin dynasty",
+    "startYear": 1115,
+    "endYear": 1234,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Imperial China: Qara Khitai",
+    "startYear": 1124,
+    "endYear": 1218,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Imperial China: Yuan dynasty",
+    "startYear": 1271,
+    "endYear": 1368,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Imperial China: Ming dynasty",
+    "startYear": 1368,
+    "endYear": 1644,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Imperial China: Qing dynasty",
+    "startYear": 1636,
+    "endYear": 1912,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Modern China: Republic of China (Mainland)",
+    "startYear": 1912,
+    "endYear": 1949,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Modern China: People's Republic of China",
+    "startYear": 1949,
+    "endYear": 2021,
+    "link": null
+  },
+  {
+    "country": "China",
+    "title": "Modern China: Republic of China (Taiwan)",
+    "startYear": 1949,
+    "endYear": 2021,
+    "link": null
+  }
+]
